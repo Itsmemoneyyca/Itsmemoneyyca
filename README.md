@@ -1,23 +1,15 @@
-Hi, I'm Monika! 👋
+# Hi, I'm Monika! 👋
 
-🎓 BSc CSIT Student
-💻 Learning Programming & Web Development
-🌱 Currently exploring HTML, CSS & JavaScript
-🚀 Interested in building projects and learning new technologies.
+### 🎓 BSc CSIT Student
 
-Always learning, always growing!
+* 💻 **Learning:** Programming & Web Development
+* 🚀 **Currently exploring:** HTML, CSS & JavaScript
+* 🌱 **Interests:** Building projects and learning new technologies.
 
-<!--
-**Itsmemoneyyca/Itsmemoneyyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💬 **Ask me about:** HTML, CSS, or my journey in BSc CSIT
+* 📫 **LinkedIn:** [🔗 [LinkedIn](https://www.linkedin.com/in/monika-marasini/)]
+*
