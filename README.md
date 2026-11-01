@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I'm Monika! 👋
+
+🎓 BSc CSIT Student
+💻 Learning Programming & Web Development
+🌱 Currently exploring HTML, CSS & JavaScript
+🚀 Interested in building projects and learning new technologies.
+
+Always learning, always growing!
 
 <!--
 **Itsmemoneyyca/Itsmemoneyyca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
